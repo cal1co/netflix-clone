@@ -17,6 +17,7 @@
 		A85A530A28B320A70048FB20 /* SearchViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = A85A530928B320A70048FB20 /* SearchViewController.swift */; };
 		A85A530C28B320C80048FB20 /* DownloadsViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = A85A530B28B320C80048FB20 /* DownloadsViewController.swift */; };
 		A85A531328B347210048FB20 /* CollectionViewTableViewCell.swift in Sources */ = {isa = PBXBuildFile; fileRef = A85A531228B347210048FB20 /* CollectionViewTableViewCell.swift */; };
+		A89C182028B3786000926289 /* HeroHeaderUiView.swift in Sources */ = {isa = PBXBuildFile; fileRef = A89C181F28B3786000926289 /* HeroHeaderUiView.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -32,6 +33,7 @@
 		A85A530928B320A70048FB20 /* SearchViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SearchViewController.swift; sourceTree = "<group>"; };
 		A85A530B28B320C80048FB20 /* DownloadsViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = DownloadsViewController.swift; sourceTree = "<group>"; };
 		A85A531228B347210048FB20 /* CollectionViewTableViewCell.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CollectionViewTableViewCell.swift; sourceTree = "<group>"; };
+		A89C181F28B3786000926289 /* HeroHeaderUiView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = HeroHeaderUiView.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -95,6 +97,7 @@
 			isa = PBXGroup;
 			children = (
 				A85A531228B347210048FB20 /* CollectionViewTableViewCell.swift */,
+				A89C181F28B3786000926289 /* HeroHeaderUiView.swift */,
 			);
 			path = Views;
 			sourceTree = "<group>";
@@ -202,6 +205,7 @@
 				A85A531328B347210048FB20 /* CollectionViewTableViewCell.swift in Sources */,
 				A85A530C28B320C80048FB20 /* DownloadsViewController.swift in Sources */,
 				A85A52F128B31C5F0048FB20 /* AppDelegate.swift in Sources */,
+				A89C182028B3786000926289 /* HeroHeaderUiView.swift in Sources */,
 				A85A530828B3207B0048FB20 /* UpcommingViewController.swift in Sources */,
 				A85A52F328B31C5F0048FB20 /* SceneDelegate.swift in Sources */,
 				A85A530628B320550048FB20 /* HomeViewController.swift in Sources */,
